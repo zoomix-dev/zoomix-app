@@ -2,7 +2,7 @@ import React from 'react';
 
 
 export const HomeView = () => (
-    <>HomeView</>
+    <>Try /profile or /random</>
   );
 
 
